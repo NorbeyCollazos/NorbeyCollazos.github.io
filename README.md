@@ -1,6 +1,6 @@
 # Hola 👋
 
-####Mi nombre es Norbey Collazos Ramirez, tengo conocimientos en desarrollo de aplicaciones móviles para android y aplicaciones web. 
+#### Mi nombre es Norbey Collazos Ramirez, tengo conocimientos en desarrollo de aplicaciones móviles para android y aplicaciones web. 
 
 Visita mi página web: [ncrdesarrollo.com](https://ncrdesarrollo.com/)
 

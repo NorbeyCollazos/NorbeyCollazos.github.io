@@ -2,7 +2,7 @@
 
 Mi nombre es Norbey Collazos Ramirez, tengo conocimientos en desarrollo de aplicaciones móviles para android y aplicaciones web. 
 
-![Panel de administración](https://github.com/NorbeyCollazos/NorbeyCollazos/blob/master/gif_programador.gif?raw=true)
+![Panel de administración](https://github.com/NorbeyCollazos/NorbeyCollazos/blob/master/portada_repositorio.jpg?raw=true)
 
 <!--
 **NorbeyCollazos/NorbeyCollazos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

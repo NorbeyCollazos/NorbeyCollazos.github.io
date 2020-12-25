@@ -1,4 +1,7 @@
-### Hola 👋
+# Hola 👋
+
+Mi nombre es Norbey Collazos Ramirez, tengo conocimientos en desarrollo de aplicaciones móviles para android y aplicaciones web. 
+
 ![Panel de administración](https://github.com/NorbeyCollazos/NorbeyCollazos/blob/master/gif_programador.gif?raw=true)
 
 <!--

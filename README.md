@@ -4,7 +4,6 @@
 
 Visita mi página web: [ncrdesarrollo.com](https://ncrdesarrollo.com/)
 
-Visita mi blog: [ncrdesarrollo.blogspot.com](https://ncrdesarrollo.blogspot.com/)
 
 ![Panel de administración](https://github.com/NorbeyCollazos/NorbeyCollazos/blob/master/portada_repositorio_github.jpg?raw=true)
 
